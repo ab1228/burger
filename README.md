@@ -5,7 +5,7 @@ App was built using:
 HTML, CSS, Bootstrap ,JavaScript,jQuery
 Node.js, npm, MySQL, Express ,Express-Handlebars, ORM, MVC
 
-Screen shot
+Screenshot
 This is how the webpage actaully works.
 
 
