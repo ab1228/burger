@@ -7,4 +7,6 @@ Node.js, npm, MySQL, Express ,Express-Handlebars, ORM, MVC
 
 Screen shot
 This is how the webpage actaully works.
-![App screenshot](https://media.giphy.com/media/RiPz9YNvcBQGqtTQqT/200w_d.gif)
+
+
+![App screenshot](https://media.giphy.com/media/RiPz9YNvcBQGqtTQqT/giphy.gif)
